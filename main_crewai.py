@@ -34,7 +34,7 @@ task1 = Task(
 task2 = Task(
     description='Write a blog post on AI advancements',
     agent=writer,
-    expected_output="A well-written blog post discussing recent AI advancements"
+    expected_output="A well-written, about 2000 words blog post discussing recent AI advancements"
 )
 
 # Instantiate your crew
